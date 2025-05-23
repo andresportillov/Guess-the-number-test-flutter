@@ -4,7 +4,7 @@ Un juego clásico de adivinar el número secreto, implementado en Flutter. El us
 
 ## 🚀 Funcionalidades
 
-- Selección de nivel de dificultad (fácil, medio, difícil)
+- Selección de nivel de dificultad (fácil, medio, difícil, Extremo)
 - Registro de intentos mayores y menores que el número secreto
 - Validación de entrada de usuario
 - Historial de juegos previos con resultados
